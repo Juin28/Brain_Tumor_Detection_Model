@@ -53,4 +53,4 @@ This project demonstrates the potential of automated systems in enhancing the di
 
 ## Contact
 
-For further inquiries, please reach out to the authors via their respective email addresses.
+For further inquiries, please reach out to me via juintan28@gmail.com
